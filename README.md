@@ -1,4 +1,4 @@
-# Restaurant-website-design-html-css-Javascript
+# Restaurant Website Design
 Restaurant website design html css &amp; Javascript
 
 using html css and javascript i make a restaurant website 
